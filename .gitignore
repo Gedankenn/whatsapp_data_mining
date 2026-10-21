@@ -1,0 +1,9 @@
+# Sphinx build output
+_build/
+
+# Python
+__pycache__/
+*.pyc
+
+# Windows
+desktop.ini
