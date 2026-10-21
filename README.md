@@ -26,6 +26,6 @@ Export the chat from WhatsApp ("Export chat" → without media). The parser expe
 The module is documented with Sphinx (`conf.py`, `index.rst`, `Makefile`/`make.bat`):
 
 ```bash
-pip install sphinx
+pip install sphinx pandas numpy matplotlib   # autodoc imports the module
 make html      # output in _build/html
 ```
